@@ -7,16 +7,16 @@ This repository is a starter template for developing the frontend of UOSM web ap
 # Getting Started
 1. Clone the repository
 
-git clone <repository-url>
-cd <repository-name>
+    git clone <repository-url>
+    cd <repository-name>
 
 2. Install dependencies
 
-npm install
+    npm install
 
 3. Start the development server
 
-npm run dev
+    npm run dev
 
 Then open the local URL provided in the terminal.
 
