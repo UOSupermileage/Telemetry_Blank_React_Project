@@ -22,9 +22,9 @@ Then open the local URL provided in the terminal.
 
 # Project Structure
 src/ 
-> components/     # Reusable UI components
->  pages/          # Application pages
-> App.jsx         # Main application component
-> main.jsx        # Application entry point
+- components/     # Reusable UI components
+- pages/          # Application pages
+- App.jsx         # Main application component
+- main.jsx        # Application entry point
 
 Happy coding!
